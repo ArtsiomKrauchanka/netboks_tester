@@ -1,4 +1,4 @@
-**netboks_tester**
+# Netboks_tester
 
 An app for system administrators that pings IP addresses. In case of network connection problems users can open this application, which was previosly installed   
 
